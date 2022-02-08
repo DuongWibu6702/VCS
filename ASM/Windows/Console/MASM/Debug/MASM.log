@@ -1,0 +1,6 @@
+﻿  Assembling Source.asm...
+Source.asm(7): error A2006: undefined symbol : DGROUP
+Source.asm(8): error A2006: undefined symbol : eds
+Source.asm(9): error A2006: undefined symbol : eah
+Source.asm(13): warning A4023: with /coff switch, leading underscore required for start address : main
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.
